@@ -1,5 +1,5 @@
 #include <stdio.h>
-  // Estrura para representa uma carta
+  // Estutrura para representa uma carta
 
   typedef struct {
   char estado[50];
